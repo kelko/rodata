@@ -1,0 +1,23 @@
+[package]
+name = "rodata"
+version = "0.1.0"
+authors = ["Gregor :kelko: Karzelek <kelko@me.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.9", features = ["full"] }
+hyper = "0.14"
+futures = "0.3.16"
+serde = "1.0.126"
+serde_json = "1.0.65"
+async-trait = "0.1.51"
+reqwest = { version = "0.11", features = ["stream"] }
+clap = "2.33.0"
+bytes = "1.0"
+
+# [[bin]]
+# name = "rodata"
+# path = "src/bin/roc"
+# crate-type = ["bin"]

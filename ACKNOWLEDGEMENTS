@@ -1,0 +1,14 @@
+The first version of this project was made during "Fun Code" days at [CONWEAVER GmbH](https://www.conweaver.com). Many thanks for my employer for allowing me to take that code and continue it as private project 🙏
+
+Part of the code is based upon / taken from:
+- [qjsonrs](https://github.com/sarum90/qjsonrs) by Marcus Henry Ewert (License: MIT)
+
+This library & app uses the following Rust Crates. Please check those libs directly about licenses & authors
+- tokio
+- hyper
+- futures
+- serde
+- serde_json
+- async-trait
+- reqwest
+- clap
