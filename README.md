@@ -1,6 +1,13 @@
 rodata - Rust OData Client
 ==========================
 
+⚠️ ARCHIVED ⚠️
+
+Due to work-related changes I neither have the practical use-cases nor a sufficient testing env to continue.
+Anyone interested in the code is free to take over. But I'm also willing to re-open it myself, if use-case and testing env can be provided.
+
+
+
 About
 -----
 
